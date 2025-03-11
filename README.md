@@ -22,5 +22,5 @@ This repository contains lab exercises for the **Digital Signal Processing (DSP)
    - Install Scilab (https://www.scilab.org/) if it was not installed in the computer.
    - Read user manual: https://www.scilab.org/sites/default/files/Scilab_beginners.pdf
 2. Clone the repository:
-    git clone https://github.com/leduccuonghcmut/DSP-242.git
-    cd DSP-242
+    - git clone https://github.com/leduccuonghcmut/DSP-242.git
+    - cd DSP-242
