@@ -4,20 +4,23 @@ This repository contains lab exercises for the **Digital Signal Processing (DSP)
 
 ## 📌 Contents
 
-- **Lab 1:** Introduction to Digital Signals and Systems  
-- **Lab 2:** Discrete Fourier Transform (DFT) & Fast Fourier Transform (FFT)  
-- **Lab 3:** FIR & IIR Digital Filters  
-- **Lab 4:** Audio Signal Processing  
-- **Lab 5:** Practical Applications of DSP  
+- **Lab 1:** Introduction of Signals and Systems
+- **Lab 2:** DDiscrete-Time Signal and System
+- **Lab 3:** Discrete-Time Signal and System (cont)
+- **Lab 4:** Content will be updated.
+- **Lab 5:** Content will be updated.
+- **Lab 6:** Content will be updated.
 
 ## 🛠 Tools & Libraries
 
-- **Programming Language:** Python / MATLAB  
-- **Libraries:** NumPy, SciPy, Matplotlib  
+- **Scripting Language:** SciLab
+
 
 ## 🚀 How to Use
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/DSP-Labs.git
-   cd DSP-Labs
+1. Install Scilab:  
+   Install Scilab (https://www.scilab.org/) if it was not installed in the computer.
+   Read user manual: https://www.scilab.org/sites/default/files/Scilab_beginners.pdf
+2. Clone the repository:
+    git clone https://github.com/leduccuonghcmut/DSP-242.git
+    cd DSP-242
